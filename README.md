@@ -1,7 +1,7 @@
 # RFMAnalysisWithSQL
 I explore a sales dataset and generate various analytics and insights from customers' past purchase behavior. We go from analyzing sales revenue to creating a customer segmentation analysis using the RFM technique.
 
-we explore a sales dataset and generate various analytics and insights from customers' past purchase behavior. We go from analyzing sales revenue to creating a customer segmentation analysis using the RFM technique. We go from basic SQL queries to exploring complex problems using SUB QUERY, CTEs, AGGREGATE, and WINDOW functions. We work on the following skills in this video:
+I explore a sales dataset and generate various analytics and insights from customers' past purchase behavior. i go from analyzing sales revenue to creating a customer segmentation analysis using the RFM technique. Using basic SQL queries to exploring complex problems using SUB QUERY, CTEs, AGGREGATE, and WINDOW functions. I work on the following skills:
 - Importing a file into SQL Server Database
 - SQL Aggregate Functions
 - SQL Window Functions
@@ -12,5 +12,4 @@ we explore a sales dataset and generate various analytics and insights from cust
 
 
 What is RFM Segmentation Analysis?
-
-An RFM report is a way of segmenting customers using three key metrics: recency (how long ago their last purchase was), frequency (how often they purchase), and monetary value (how much they spent).
+An RFM report; is a way of segmenting customers using three key metrics: recency (how long ago their last purchase was), frequency (how often they purchase), and monetary value (how much they spent).
