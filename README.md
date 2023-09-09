@@ -11,6 +11,6 @@ I explore a sales dataset and generate various analytics and insights from custo
 
 What is RFM Segmentation Analysis?
 
-An RFM report; is a way of segmenting customers using three key metrics: recency (how long ago their last purchase was), frequency (how often they purchase), and monetary value (how much they spent).........
+An RFM report; is a way of segmenting customers using three key metrics: recency (how long ago their last purchase was), frequency (how often they purchase), and monetary value (how much they spent)........
 
 The Analysis is included with the TSQL File.
