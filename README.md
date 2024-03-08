@@ -2,7 +2,7 @@
 I explore a sales dataset and generate various analytics and insights from customers' past purchase behavior. i go from analyzing sales revenue to creating a customer segmentation analysis using the RFM technique. Using basic SQL queries to exploring complex problems using SUB QUERY, CTEs, AGGREGATE, and WINDOW functions. I work on the following skills:
 
 
---
+-
 - Importing a file into SQL Server Database
 - SQL Aggregate Functions.
 - SQL Window Functions
